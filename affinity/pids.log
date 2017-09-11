@@ -1,0 +1,16 @@
+running getpid
+  PID   TID COMMAND  USER     PSR
+31387     - dedup    ads        -
+    - 31387 -        ads       22
+    - 31388 -        ads       26
+    - 31389 -        ads        0
+    - 31390 -        ads       22
+    - 31391 -        ads        1
+    - 31392 -        ads        3
+    - 31393 -        ads       19
+    - 31394 -        ads        2
+    - 31395 -        ads       20
+    - 31396 -        ads       31
+    - 31397 -        ads       28
+    - 31398 -        ads       27
+    - 31399 -        ads       30

@@ -1,0 +1,12 @@
+running getpid
+PID   TID COMMAND  USER     PSR
+32483     0 dedup    ads        0
+    0 32483 0        ads       23
+    0 32485 0        ads        1
+    0 32486 0        ads        2
+    0 32487 0        ads        3
+    0 32488 0        ads        4
+    0 32489 0        ads        5
+    0 32490 0        ads        6
+    0 32491 0        ads       35
+    0 32492 0        ads       20
